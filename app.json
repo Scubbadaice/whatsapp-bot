@@ -13,7 +13,7 @@
         },
         "SUDO": {
             "description": "Sudo mode, Your number must be an international number. So you should have your number after the country code. Example: 919876543210 (IN)",
-            "required": false
+            levanter_2552f1df5654224648b81d34ee13361042: false
         },
         "HANDLERS": {
             "description": "enter prefix. Example . or ^[.,!/] for using multiple prefix like .,!/ or LyFE. Using keyword like LyFE will broke list and help command",
